@@ -1,46 +1,73 @@
-# Getting Started with Create React App
+<h1 align="center">Favorit Repository</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="License" src="https://github.com/ruannysil/sistemacadastro/assets/84647446/339e1bb7-96e4-4192-b62b-0b0a5cdc0784" width="600px">
+</p>
 
-### `npm start`
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Este é um projeto para favoritar repositórios do GitHub. Ele foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm test`
+- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- TypeScript: Uma linguagem de programação que adiciona tipagem estática ao JavaScript.
+- React Icons: Uma biblioteca de ícones para React.
+- React Router: Uma biblioteca para criação de rotas em aplicações React.
+- React Toastify: Uma biblioteca para exibição de notificações.
+- Axios: Um cliente HTTP para realizar requisições.
+- Styled Components: Uma biblioteca para estilizar componentes React.
+- localStorage: Um recurso do navegador para armazenamento local de dados.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Funcionalidades
 
-### `npm run build`
+- Adicionar um repositório do GitHub à lista de favoritos.
+- Remover um repositório da lista de favoritos.
+- Exibir a lista de repositórios favoritos.
+- Navegar para os detalhes de um repositório.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como utilizar
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- O "Favorit Repository" é um projeto desenvolvido utilizando React e TypeScript, com o objetivo de permitir aos usuários favoritarem repositórios do GitHub. Com essa aplicação, os usuários podem adicionar repositórios à lista de favoritos, removê-los, visualizar a lista de repositórios favoritos e navegar para os detalhes de um repositório específico.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- A aplicação utiliza diversas tecnologias, incluindo React Icons para exibição de ícones, React Router para gerenciamento de rotas, React Toastify para exibição de notificações, Axios para realizar requisições HTTP, Styled Components para estilização dos componentes e localStorage para armazenamento local dos dados.
 
-### `npm run eject`
+- Na aba principal adicione os seguintes repositorio para você navaga " facebook/react, angular/angular " lembrando para você ver os issues você tem que ter em seu repositorio ok!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Faça um clone deste repositório.
+2. Instale as dependências utilizando o comando `npm install`.
+3. Inicie a aplicação com o comando `npm start`.
+4. Acesse a aplicação em [http://localhost:3000](http://localhost:3000).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ ## 🔖💻 Projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Você pode visualizar o projeto através [DESSE LINK](https://favorit-repository.vercel.app/). Compativel com Smartphone, Tablets e Desktop.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Contribuição
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contribuições são bem-vindas! Se você encontrou algum problema no projeto ou tem sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Estrelas
+
+⭐⭐⭐⭐⭐
+
+Se você gostou do projeto e achou útil, por favor, considere dar uma estrela no repositório. Sua avaliação é muito importante para mim! Obrigado pelo seu apoio.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio)](https://github.com/seu-usuario/seu-repositorio/stargazers)
+---
+
+Feito com ♥ by Ruanny :wave:
+
